@@ -1,6 +1,6 @@
-# DataBootCampHW
-UCB Data HW
-# DataBootCampHW
+
+#UCB Data HW
+# DataHW
 My repo to house homework for the UCB Data Bootcamp. 
 
 # Simplifying GitHub & GitLab
